@@ -3,10 +3,10 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name="Help Instance"
-                 start-page="Default-topic.md">
+                 name="MLP Documention"
+                 start-page="Overview.md">
 
-    <toc-element topic="Default-topic.md"/>
+    <toc-element topic="Overview.md"/>
     <toc-element topic="Requirement.md"/>
     <toc-element topic="Paper.md"/>
     <toc-element topic="Research.md"/>

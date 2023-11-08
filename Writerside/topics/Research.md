@@ -1,5 +1,8 @@
 # Research
 
+> This is an old version. I haven't had time to update it yet
+> {style="note"}
+
 | Method                         | Description                                                                                                                                                                                                                                               |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Text-based Search              | Users can search for 3D models using keywords or descriptive text, similar to traditional text search engines.                                                                                                                                            |
