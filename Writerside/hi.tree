@@ -6,6 +6,7 @@
                  name="MLP Documention"
                  start-page="Overview.md">
 
+    <toc-element topic="thinking.md"/>
     <toc-element topic="Discussion.md"/>
     <toc-element topic="web3D.md"/>
     <toc-element topic="Overview.md"/>
